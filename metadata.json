@@ -1,0 +1,6 @@
+{
+  "name": "AetherData AI",
+  "description": "Enterprise-grade intelligent data analysis platform with conversational AI, high-end cinematic visuals, and interactive predictive analytics pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
